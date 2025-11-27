@@ -1,9 +1,9 @@
-Chakravyuh – Predictive Cyber Threat Detection System
+# Chakravyuh – Predictive Cyber Threat Detection System
 
 Chakravyuh is an AI-powered cyber-defence platform designed to predict, detect, and prevent cyber threats before they strike.
 Built for police units, defence partners, and government departments, Chakravyuh provides real-time monitoring, behaviour-based threat prediction, and early-warning alerts with minimal technical requirements.
 
-🚀 Features
+**🚀 Features**
 
 Predictive Threat Detection
 ML/AI models analyse network behaviour and detect anomalies before an attack happens.
@@ -17,7 +17,7 @@ Hybrid model supporting both cloud and on-premise deployment.
 Minimal Training Required
 Tailored for government workflows with simple UI.
 
-📦 Project Structure
+**📦 Project Structure**
 /Chakravyuh
 │
 ├── src/
@@ -33,7 +33,7 @@ Tailored for government workflows with simple UI.
 ├── requirements.txt     # Python dependencies
 └── README.md            # Project documentation
 
-⚙️ How to Run the Project
+**⚙️ How to Run the Project**
 1. Clone the Repository
 git clone https://github.com/your-repo/chakravyuh.git
 cd chakravyuh
@@ -50,7 +50,7 @@ Once the system is running, open:
 
 http://localhost:8000
 
-🧠 Technology Stack
+**🧠 Technology Stack**
 
 Python (core backend)
 
@@ -62,7 +62,7 @@ React / HTML / JS (dashboard UI)
 
 SQLite / MongoDB (logs & predictions storage)
 
-🛡️ Key Modules
+**🛡️ Key Modules**
 1. Threat Prediction Engine
 
 Anomaly detection
@@ -87,7 +87,7 @@ Priority-based warnings
 
 JSON / API outputs
 
-🧪 Model Training
+**🧪 Model Training**
 
 To retrain or update the prediction model:
 
@@ -98,7 +98,7 @@ Training data should be kept inside:
 
 /src/data/
 
-📊 Industry Use Cases
+**📊 Industry Use Cases**
 
 Police departments
 
@@ -108,7 +108,7 @@ Government digital infrastructure
 
 Critical infrastructure (power grids, transport, telecom)
 
-🤝 Team
+**🤝 Team**
 
 Harshdeep Singh
 
