@@ -20,7 +20,7 @@ Tailored for government workflows with simple UI.
 ### 📦 Project Structure
 /Chakravyuh<br>
 │<br>
-├── src/
+├── src/<br>
 │   ├── models/          # ML models for anomaly + threat prediction<br>
 │   ├── data/            # Training & system logs<br>
 │   ├── utils/           # Helper functions (logging, preprocessing)<br>
@@ -37,81 +37,81 @@ Tailored for government workflows with simple UI.
 1. Clone the Repository  
 git clone https://github.com/your-repo/chakravyuh.git  
 cd chakravyuh  
-
-2. Install Dependencies
-pip install -r requirements.txt
-
-3. Start the System
-python main.py
-
-4. Access the Dashboard
-
-Once the system is running, open:
-
-http://localhost:8000
+  
+2. Install Dependencies  
+pip install -r requirements.txt  
+  
+3. Start the System  
+python main.py  
+  
+4. Access the Dashboard  
+  
+Once the system is running, open:  
+  
+http://localhost:8000  
 
 ### 🧠 Technology Stack
 
-Python (core backend)
-
-Scikit-learn / TensorFlow / PyTorch (ML models)
-
-FastAPI / Flask (backend server)
-
-React / HTML / JS (dashboard UI)
-
-SQLite / MongoDB (logs & predictions storage)
-
-### 🛡️ Key Modules
-1. Threat Prediction Engine
-
-Anomaly detection
-
-Behavioural pattern analysis
-
-Threat scoring system
-
-2. Network Analysis Layer
-
-Packet monitoring
-
-Log ingestion
-
-Suspicious activity tracking
-
-3. Alerting System
-
-Instant notifications
-
-Priority-based warnings
-
-JSON / API outputs
-
-### 🧪 Model Training
-
-To retrain or update the prediction model:
-
-python src/models/train_model.py
-
-
-Training data should be kept inside:
-
-/src/data/
-
+Node.js (core backend)  
+  
+Scikit-learn / TensorFlow / PyTorch (ML models)  
+  
+Flask (backend server)  
+  
+React (dashboard UI)  
+  
+MongoDB (logs & predictions storage)   
+  
+### 🛡️ Key Modules  
+1. Threat Prediction Engine  
+  
+Anomaly detection  
+  
+Behavioural pattern analysis  
+  
+Threat scoring system  
+  
+2. Network Analysis Layer  
+  
+Packet monitoring  
+  
+Log ingestion  
+  
+Suspicious activity tracking  
+  
+3. Alerting System  
+  
+Instant notifications  
+  
+Priority-based warnings  
+  
+JSON / API outputs  
+  
+### 🧪 Model Training  
+  
+To retrain or update the prediction model:  
+  
+python src/models/train_model.py   
+  
+  
+Training data should be kept inside:  
+  
+/src/data/  
+  
 ### 📊 Industry Use Cases
-
-Police departments
-
-Defence communication systems
-
-Government digital infrastructure
-
-Critical infrastructure (power grids, transport, telecom)
-
+  
+Police departments  
+  
+Defence communication systems  
+  
+Government digital infrastructure  
+  
+Critical infrastructure (power grids, transport, telecom)  
+  
 ### 🤝 Team
 
-Harshdeep Singh
-
-Lavanya Verma
-
-Matisha Kansal
+Harshdeep Singh  
+  
+Lavanya Verma  
+  
+Matisha Kansal  
